@@ -1,0 +1,6 @@
+from .base import *
+
+DEBUG = False
+
+ENVIRONMENT_NAME = 'PRODUCTION'
+ENVIRONMENT_COLOR = 'RED'
